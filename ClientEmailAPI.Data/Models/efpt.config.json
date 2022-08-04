@@ -1,0 +1,43 @@
+﻿{
+  "CodeGenerationMode": 0,
+  "ContextClassName": "ClientDbContext",
+  "ContextNamespace": null,
+  "DefaultDacpacSchema": null,
+  "FilterSchemas": false,
+  "IncludeConnectionString": true,
+  "ModelNamespace": null,
+  "OutputContextPath": null,
+  "OutputPath": null,
+  "ProjectRootNamespace": "ClientEmailAPI.Data.Models",
+  "Schemas": null,
+  "SelectedHandlebarsLanguage": 0,
+  "SelectedToBeGenerated": 0,
+  "Tables": [
+    {
+      "Name": "[dbo].[TBL_MobileEmail]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Tbl_WebEmail]",
+      "ObjectType": 0
+    }
+  ],
+  "UiHint": "DESKTOP-I2FJ7KI\\FINTRAKSQL.ClientDb",
+  "UseBoolPropertiesWithoutDefaultSql": false,
+  "UseDatabaseNames": false,
+  "UseDbContextSplitting": false,
+  "UseFluentApiOnly": true,
+  "UseHandleBars": false,
+  "UseHierarchyId": false,
+  "UseInflector": false,
+  "UseLegacyPluralizer": false,
+  "UseManyToManyEntity": false,
+  "UseNoConstructor": false,
+  "UseNoDefaultConstructor": false,
+  "UseNoNavigations": false,
+  "UseNoObjectFilter": false,
+  "UseNodaTime": false,
+  "UseNullableReferences": false,
+  "UseSchemaFolders": false,
+  "UseSpatial": false
+}
